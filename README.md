@@ -2,7 +2,7 @@
 I am from the Autonomous City of Buenos Aires, Argentina
 - 👀 I am interested in frontend and backend technologies
 - 🌱 I’m currently learning ReactJS, Angular, nodeJS, .net core
-- 💞️ I’m looking to collaborate on frontend prjects
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 You can contact me by email or telegram -> @sebaspicsar
 
 <!---
