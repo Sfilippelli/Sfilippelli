@@ -42,6 +42,4 @@ I enjoy creating clean architectures, automating workflows, and developing scala
 ---
 
 Thanks for visiting my profile!  
-Feel free to check my repositories or reach out 👇
-
-📫 **@sebaspicsar**  
+Feel free to check my repositories 
