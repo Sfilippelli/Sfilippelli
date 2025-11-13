@@ -42,4 +42,6 @@ I enjoy creating clean architectures, automating workflows, and developing scala
 ---
 
 Thanks for visiting my profile!  
-Feel free to check my repositories 
+Feel free to check my repositories or reach out 👇
+
+📫 **https://www.linkedin.com/in/sebastianfilippelli/** 
